@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joach\\source\\repos\\OdeToFoodProject\\OdeToFood.csproj",
-      "projectName": "OdeToFood",
-      "projectPath": "C:\\Users\\joach\\source\\repos\\OdeToFoodProject\\OdeToFood.csproj",
+      "projectUniqueName": "C:\\Users\\joach\\source\\repos\\OdeToFoodProject\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "projectName": "OdeToFood.Core",
+      "projectPath": "C:\\Users\\joach\\source\\repos\\OdeToFoodProject\\OdeToFood.Core\\OdeToFood.Core.csproj",
       "packagesPath": "C:\\Users\\joach\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joach\\source\\repos\\OdeToFoodProject\\obj\\",
+      "outputPath": "C:\\Users\\joach\\source\\repos\\OdeToFoodProject\\OdeToFood.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joach\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,9 +54,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
