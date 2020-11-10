@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKFhvxSQRkAMPhc9x1yl6oQWSek9TPjJ0EjBo3OdaBTJCFDsDXE43toMj40qyhiE0+V2dmopBquC9OGdFJb6vQ==",
+  "dgSpecHash": "Ek+kdPuj65bXKQz6XDnOydJadZlhMDCtrhMwR0DKXj2A7+O46yROKdKAkdHWayy5I4tPFl6yBBceL1LIwogGwA==",
   "success": true,
-  "projectFilePath": "/Users/antonbrannstrom/Projects/OdeToFood/OdeToFood.Data/OdeToFood.Data.csproj",
+  "projectFilePath": "C:\\Users\\joach\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

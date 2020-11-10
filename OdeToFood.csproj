@@ -5,6 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="OdeToFood.Core\**" />
+    <Compile Remove="OdeToFood.Data\**" />
+    <Content Remove="OdeToFood.Core\**" />
+    <Content Remove="OdeToFood.Data\**" />
+    <EmbeddedResource Remove="OdeToFood.Core\**" />
+    <EmbeddedResource Remove="OdeToFood.Data\**" />
+    <None Remove="OdeToFood.Core\**" />
+    <None Remove="OdeToFood.Data\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Pages\Restaurants\" />
   </ItemGroup>
 </Project>

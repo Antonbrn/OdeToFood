@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "Re5/CbsE0/QJeOfrpvWZ7Ab6SsTLASepn4TPwQK5e0YYRfPpjyk/XUIFdjyMJgkcWN93vJhmty7xq0dc30ZNAw==",
+  "dgSpecHash": "rABE+PJnPpYhcQ/0mebvsmC/i56Ifn6CqKeM9/zzZvtgXUeHrEBFX0KdDmc5+X2HzFDmgffuSmGsH2QxRvh/aA==",
   "success": true,
-  "projectFilePath": "/Users/antonbrannstrom/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
-=======
-  "dgSpecHash": "OIlkmVpQ70IzulUBPD7xUSACJoqU7iqIQve9FeDO77H6fK03dFgFP6wwdgSMSfOS3wCzKA+N4L58PJ7RrLoAgw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\joach\\source\\repos\\OdeToFoodProject\\OdeToFood.Core\\OdeToFood.Core.csproj",
->>>>>>> bd5bb2ef47f1d391107339b277b65e33c1c6b28c
+  "projectFilePath": "C:\\Users\\joach\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
